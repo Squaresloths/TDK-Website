@@ -1,0 +1,49 @@
+body{
+    font-family: Verdana;
+    font-size: 2em;
+    text-align: center;
+    background-color: red;
+}
+#myButton{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+#myLabel{
+    font-size: 3em;
+}
+#clock-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#clock{
+    font-family: monospace;
+    font-size: 6.5rem;
+    text-align: center;
+    color: tomato;
+    backdrop-filter: blur(10px);
+}
+h1{
+    border-style: outset;
+    border-radius: 5px;
+    border-color: black;
+    background-color: grey;
+}
+h3{
+    border-style: inset;
+    border-radius: 7px;
+    border-color: black;
+    background-color: tomato;
+}
+button{
+    border-style: outset;
+    border-radius: 5px;
+    font-size: 1em;
+    background-color: grey;
+}
+h2{
+    border-style: solid;
+    border-radius: 9px;
+    background-color: black;
+}
